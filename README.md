@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project provides an analysis of the Nifty 50 stock market data and related financial indicators over the past 9 years. It includes data on stock prices, financial metrics (like P/E ratios and market cap), inflation rates, and GDP. The project involves data collection, cleaning, preprocessing, feature engineering, exploratory data analysis (EDA), and visualization. The final analysis is deployed using Streamlit and can be accessed via the following link: [Project Dashboard](https://nifty50-marketanalysis.onrender.com).
+This project provides an analysis of the Nifty 50 stock market data and related financial indicators over the past 9 years. It includes data on stock prices, financial metrics (like P/E ratios and market cap), inflation rates, and GDP. The project involves data collection, cleaning, preprocessing, feature engineering, exploratory data analysis (EDA), and visualization. The final analysis is deployed using Streamlit and can be accessed via the following link: [Project Dashboard](https://nifty50marketanalysis.streamlit.app).
 
 ## Data Files
 
@@ -36,7 +36,7 @@ The project utilizes the following CSV files:
 ### 4. Deployment
 
 - **Platform**: Deployed the project using Streamlit, providing an interactive web-based dashboard.
-- **Link**: [Project Dashboard](https://nifty50-marketanalysis.onrender.com)
+- **Link**: [Project Dashboard](https://nifty50marketanalysis.streamlit.app)
 
 ## Visualizations
 
